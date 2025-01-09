@@ -8,5 +8,5 @@ A smart contract for receiving, storing, and withdrawing Ether.
 2. Upload the `MyContract.sol' file to the `contracts` folder.
 3. Compile and seal the contract.
 4. Use the contract functions:
-- `- `jetbalance': checking the balance.
+   - `getbalance': checking the balance.
    - `withdraw': withdrawal of funds.
