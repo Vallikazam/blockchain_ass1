@@ -10,3 +10,4 @@ A smart contract for receiving, storing, and withdrawing Ether.
 4. Use the contract functions:
    - `getbalance': checking the balance.
    - `withdraw': withdrawal of funds.
+![image](https://github.com/user-attachments/assets/0231622c-8c65-45ae-9f8d-159f6a132cfc)
